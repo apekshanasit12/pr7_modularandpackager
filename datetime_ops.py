@@ -120,6 +120,6 @@ def menu():
         print("============================")
 
 
-# Runs only when this file is executed directly (python -m toolkit.datetime_ops)
+
 if __name__ == "__main__":
     menu()
